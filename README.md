@@ -3,7 +3,7 @@ This repository contains resources to train a Style GAN2 model for Animated face
 
 The main notebook was executed on Kaggle and as the maximum runtime of a session is 12 hrs, we could run approximately 30-35 epochs as each epoch requires 20 min 51s.
 
-Base code was taken from [Anime Generation GitHub Repo](https://github.com/aniruddhapal211316/anime_generation). This work is based on [Anime Faces Dataset]([https://github.com/aniruddhapal211316/anime_generation](https://www.kaggle.com/datasets/soumikrakshit/anime-faces))
+Base code was taken from [Anime Generation GitHub Repo](https://github.com/aniruddhapal211316/anime_generation). This work is based on [Anime Faces Dataset]([[https://github.com/aniruddhapal211316/anime_generation])
 
 
 <img src="Images/Epoch and Images.png" width="3000">
